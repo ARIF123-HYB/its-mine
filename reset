@@ -1,0 +1,14 @@
+[1mdiff --git a/SRC/index.html b/SRC/index.html[m
+[1mindex 8255e8f..2f30a53 100644[m
+[1m--- a/SRC/index.html[m
+[1m+++ b/SRC/index.html[m
+[36m@@ -19,7 +19,8 @@[m
+     <img id="banner" src="banner.jpg" alt="Banner" height="240">[m
+ [m
+     <h1>[m
+[31m-        About Jovian [m
+[32m+[m[32m        welcome to[m
+[32m+[m[32m         Jovian[m[41m [m
+     </h1>[m
+ [m
+     <div id="about">[m
